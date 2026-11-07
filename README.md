@@ -1,5 +1,8 @@
 # POLYMATH-ATLAS v107.1-FINAL
 
+<p align="center"><img src=".github/social-preview.png" alt="polymath-atlas-v107" width="100%"></p>
+
+
 **Категория: VERIFIED ENGINEERING FRAMEWORK (прототип). НЕ теорем-проверитель. НЕ математическая система.**
 
 Канонический вердикт: `EVIDENCE-READY / CORE-VERIFIED / NOT-MATHEMATICAL`
