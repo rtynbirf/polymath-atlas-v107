@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="banner.png" alt="polymath-atlas-v107 — Честный evidence-audit фреймворк — v107.1 FINAL" width="100%">
+</div>
+
 # POLYMATH-ATLAS v107.1-FINAL
 
 <p align="center"><img src=".github/social-preview.png" alt="polymath-atlas-v107" width="100%"></p>
