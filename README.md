@@ -2,6 +2,15 @@
   <img src="banner.png" alt="polymath-atlas-v107 — Честный evidence-audit фреймворк — v107.1 FINAL" width="100%">
 </div>
 
+<!--ФОРЖ:МУЗА:НАЧАЛО-->
+<div align="center">
+  <img src="repo-muse.svg" width="100%" alt="Муза polymath-atlas-v107: картина кузни ПОЛИМАТ, раунд 9" />
+  <br/>
+  <img src="forge-divider.svg" width="62%" alt="разделитель кузни ПОЛИМАТ" />
+</div>
+<!--ФОРЖ:МУЗА:КОНЕЦ-->
+
+
 # POLYMATH-ATLAS v107.1-FINAL
 
 <p align="center"><img src=".github/social-preview.png" alt="polymath-atlas-v107" width="100%"></p>
@@ -103,3 +112,10 @@ python3 scripts/verify_anchors.py --txt      # осмотр VERIFICATION_ANCHORS
 генерации 2026-11-04 — пломба устарела [О], зафиксировано, не подчищено. Переход
 на Lean (при появлении тулчейна): `lake build` rc=0 → статусы «proven» по фактам
 сборки, аксиомный список — по `#print axioms`.
+
+<!--ФОРЖ:ПОДВАЛ-->
+---
+
+<div align="center">
+  <sub>◆ картина и штандарт — ручная ковка <a href="https://github.com/rtynbirf">КУЗНИ ПОЛИМАТ</a> · ЧЕЛОВЕК=АККАУНТ=PID1 ◆</sub>
+</div>
