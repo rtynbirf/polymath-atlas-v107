@@ -1,18 +1,18 @@
 <div align="center">
-  <img src="banner.png" alt="polymath-atlas-v107 — Честный evidence-audit фреймворк — v107.1 FINAL" width="100%">
+  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/polymath-atlas-v107@main/banner.png" alt="polymath-atlas-v107 — Честный evidence-audit фреймворк — v107.1 FINAL" width="100%">
 </div>
 
 <!--ФОРЖ:МУЗА:НАЧАЛО-->
 <div align="center">
-  <img src="repo-muse.svg" width="100%" alt="Муза polymath-atlas-v107: мастерская CELESTIAL CHART, кузня ПОЛИМАТ, раунд 12 · REVE=РЕВО" />
+  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/polymath-atlas-v107@main/repo-muse.svg" width="100%" alt="Муза polymath-atlas-v107: мастерская CELESTIAL CHART, кузня ПОЛИМАТ, раунд 12 · REVE=РЕВО" />
   <br/>
-  <img src="forge-divider.svg" width="62%" alt="делитель мастерской CELESTIAL CHART" />
+  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/polymath-atlas-v107@main/forge-divider.svg" width="62%" alt="делитель мастерской CELESTIAL CHART" />
 </div>
 <!--ФОРЖ:МУЗА:КОНЕЦ-->
 
 <!--ФОРЖ:ПАСПОРТ:НАЧАЛО-->
 <div align="center">
-  <img src="revo-page.svg" width="100%" alt="РЕВО-паспорт страницы polymath-atlas-v107: строение файлов, лексикон, числа — по фактическому контенту" />
+  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/polymath-atlas-v107@main/revo-page.svg" width="100%" alt="РЕВО-паспорт страницы polymath-atlas-v107: строение файлов, лексикон, числа — по фактическому контенту" />
 </div>
 
 | ФАЙЛОВ | ПАПОК | КОММИТОВ | ОБНОВЛЕНО | РЕЛИЗОВ |
@@ -24,7 +24,7 @@
 
 # POLYMATH-ATLAS v107.1-FINAL
 
-<p align="center"><img src=".github/social-preview.png" alt="polymath-atlas-v107" width="100%"></p>
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/rtynbirf/polymath-atlas-v107@main/.github/social-preview.png" alt="polymath-atlas-v107" width="100%"></p>
 
 
 **Категория: VERIFIED ENGINEERING FRAMEWORK (прототип). НЕ теорем-проверитель. НЕ математическая система.**
