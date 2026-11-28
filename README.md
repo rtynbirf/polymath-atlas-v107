@@ -25,6 +25,18 @@
 # polymath-atlas-v107
 
 <div align="center">
+
+<a href="https://github.com/rtynbirf/polymath-atlas-v107"><img src="banner.png" width="100%" alt="polymath-atlas-v107 — штандарт мастерской в каноне ORNAMENTAL MYTHO-REALISM"></a>
+
+</div>
+
+
+
+
+
+# polymath-atlas-v107
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/rtynbirf/polymath-atlas-v107@main/banner.png" alt="polymath-atlas-v107 — Честный evidence-audit фреймворк — v107.1 FINAL" width="100%">
 </div>
 
